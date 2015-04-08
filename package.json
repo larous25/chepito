@@ -1,0 +1,11 @@
+{
+  "name": "chepito",
+  "version": "1.0.0",
+  "description": "le gusta buscar cosas",
+  "main": "index.js",
+  "author": "Brian Bustos [larous25@hotmail.es]",
+  "license": "mit",
+  "dependencies": {
+    "cheerio": "^0.19.0"
+  }
+}
